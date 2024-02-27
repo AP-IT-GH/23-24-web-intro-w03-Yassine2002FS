@@ -28,5 +28,10 @@
 ## 💡 vragen
 
 - Waarvoor dient het `controls`-attribute?
+  -Zo kan je de video of audio controleren met knoppen zoals play, stop en geluid veranderen.
+
 - Waarvoor staat de `source`-element?
+  -Zo kan je iets linken aan je html.
+
 - Wanneer gebruik je meerdere `source`-elementen?
+  -Als je meerdere linken of afbeeldingen wilt gebruiken.

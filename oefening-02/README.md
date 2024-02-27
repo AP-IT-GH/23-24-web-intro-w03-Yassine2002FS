@@ -18,3 +18,4 @@
 ## 💡 vragen
 
 - Wat is het verschil tussen de elementen `th` en `td`?
+    -Bij th ga je de tekst in het vet zien en bij td niet.
